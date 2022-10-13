@@ -1,7 +1,8 @@
 ---
-title: Bachelor, Graphic Design
-organization: Lorem Arts Academy
-location: Vienna, AT
-start: 2013-04-16
-end: 2013-10-01
+title: Bachelor Degree of Mechanical Engineering
+organization: Chiang Mai University
+organizationUrl: https://www.cmu.ac.th
+location: Chiang Mai , TH
+start: 2014-05-01
+end: 2008-03-31
 ---

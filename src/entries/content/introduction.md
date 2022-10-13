@@ -3,4 +3,4 @@ tags: introduction
 title: About Me
 ---
 
-I am a web developer with over 12 years of experience in the front-end and a special background in digital design. My focus is on creating engaging, accessible & performant interfaces for humans. I am currently looking for new challenges.
+Software engineer experienced building EdTech SaaS. Strong in API development and problem-solving skills. Proficient in Node.js, Javascript, and modern database technology both SQL and NoSQL. Eager to learn new technology and build innovative and cutting edge business solutions.
