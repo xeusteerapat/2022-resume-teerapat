@@ -1,44 +1,43 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
+    "name": "Teerapat Prommarak",
+    "occupation": "Software Engineer",
+    "location": "Bangkok, TH",
     "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "pronouns": "he/him",
+    "email": "xeus085@gmail.com",
+    "website": "https://curiousdev.in.th",
     "skills": [
         "HTML",
         "CSS",
         "Javascript / ES6",
-        "UI Design",
         "React",
-        "Git"
+        "Node.js",
+        "MongoDB, PostgresQL, MySQL",
+        "Git (GitHub, BitBucket)",
+        "Docker, Kubernetes",
+        "Cloud Platform (AWS, Google CLoud)",
+        "CI/CD Tools (GitHub Actions, Circle CI, TravisCI)"
     ],
     "languages": [
         {
-            "name": "English",
+            "name": "Thai",
             "level": "native"
         },
         {
-            "name": "German",
-            "level": "fluent"
-        },
-        {
-            "name": "French",
-            "level": "basic"
+            "name": "English",
+            "level": "fluent at work"
         }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "user": "@xeusteerapat",
+            "url": "https://github.com/xeusteerapat"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "Teerapat Prommarak",
+            "url": "https://www.linkedin.com/in/teerapat-prommarak/"
         }
     ]
 }

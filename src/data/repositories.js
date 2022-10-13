@@ -3,7 +3,8 @@ const orderBy = require('lodash/orderBy')
 
 // if you want to display your most starred github repositories,
 // change this to your username. if not, set it to false.
-const YOUR_GITHUB_USERNAME = 'maxboeck'
+//TODO update more interesting repo later
+const YOUR_GITHUB_USERNAME = false
 
 module.exports = async function () {
     if (!YOUR_GITHUB_USERNAME) {
