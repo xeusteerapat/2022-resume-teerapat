@@ -8,5 +8,6 @@ end: 2021-10-27
 ---
 
 🎯 Develop application using Node.js and MongoDB with Serverless Framework
-🎯 API Development integrate services with Third-party API (LINE API, Firebase)
+🎯 Strong understanding of common backend technologies, such as REST APIs, databases, and microservices
+🎯 API Development integrate services with Third-party API (LINE Messaging API, Firebase Cloud Messaging)
 🎯 Application Development with Cloud environment (AWS)
