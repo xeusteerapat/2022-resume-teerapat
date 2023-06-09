@@ -1,7 +1,7 @@
 ---
 title: 3D CAD Engineer
 organization: Samsung Engineering (Thailand)
-organizationUrl: https://www.microsoft.com
+organizationUrl: https://www.samsungengineering.com/en/index
 location: Bangkok, TH
 start: 2014-10-18
 end: 2020-01-21
